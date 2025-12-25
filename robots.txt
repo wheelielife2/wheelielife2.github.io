@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://wheelielife2.github.io/sitemap.xml
